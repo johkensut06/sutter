@@ -118,5 +118,15 @@
     "priceCurrency": "Km",
     "lat": 14.7911,
     "lng": 120.2397
+  },
+  {
+    "id": 13,
+    "nagan": "Calaguas",
+    "name": "Also known as Calaguas Islands - Calaguas",
+    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/subic.jpg",
+    "price": 624.4,
+    "priceCurrency": "Km",
+    "lat": 14.4500,
+    "lng": 122.9167
   }
 ]
