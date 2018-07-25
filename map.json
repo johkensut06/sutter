@@ -88,5 +88,15 @@
     "priceCurrency": "Km",
     "lat": 9.8024,
     "lng": 123.3742
+  },
+  {
+    "id": 10,
+    "nagan": "Banaue Rice Terraces",
+    "name": "  Terraces that were carved into the mountains of Ifugao - Banaue Rice Terraces",
+    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/kawasan.jpg",
+    "price": 215.2,
+    "priceCurrency": "Km",
+    "lat": 16.9240,
+    "lng": 121.0556
   }
 ]
