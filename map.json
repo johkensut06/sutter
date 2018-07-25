@@ -28,5 +28,15 @@
     "priceCurrency": "Km",
     "lat": 13.5019,
     "lng": 120.9541
+  },
+  {
+    "id": 4,
+    "nagan": "Boracay",
+    "name": "It's known for its resorts and beaches - Boracay",
+    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/galera.jpg",
+    "price": 706.3,
+    "priceCurrency": "Km",
+    "lat": 11.9674,
+    "lng": 121.9248
   }
 ]
