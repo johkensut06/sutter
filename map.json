@@ -68,5 +68,15 @@
     "priceCurrency": "Km",
     "lat": 9.8297,
     "lng": 124.1397
+  },
+  {
+    "id": 8,
+    "nagan": "Hundred Islands National Park",
+    "name": " The first national park and a protected area located in Alaminos - Hundred Islands",
+    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/chocolate.jpg",
+    "price": 124.3,
+    "priceCurrency": "Km",
+    "lat": 16.2040,
+    "lng": 120.0409
   }
 ]
