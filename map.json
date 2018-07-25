@@ -41,12 +41,22 @@
   },
   {
     "id": 5,
-    "nagan": "Mactan",
-    "name": "A densely populated island located a few kilometres from Cebu Island in the Philippines - Mactan",
+    "nagan": "Mactan Island",
+    "name": "A densely populated island located a few kilometres from Cebu Island in the Philippines - Mactan Island",
     "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/mactan.jpg",
     "price": 1115.5,
     "priceCurrency": "Km",
     "lat": 10.2990,
     "lng": 123.9639
+  },
+  {
+    "id": 6,
+    "nagan": "Panglao Island",
+    "name": "An island in the north Bohol Sea - Panglao Island",
+    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/mactan.jpg",
+    "price": 1222.4,
+    "priceCurrency": "Km",
+    "lat": 9.5731,
+    "lng": 123.7629
   }
 ]
