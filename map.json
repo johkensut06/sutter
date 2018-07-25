@@ -78,5 +78,15 @@
     "priceCurrency": "Km",
     "lat": 16.2040,
     "lng": 120.0409
+  },
+  {
+    "id": 9,
+    "nagan": "Kawasan Falls",
+    "name": " Trio of picturesque waterfalls into natural swimming pools & lagoons - Kawasan Falls",
+    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/hundred.jpg",
+    "price": 1160.5,
+    "priceCurrency": "Km",
+    "lat": 9.8024,
+    "lng": 123.3742
   }
 ]
