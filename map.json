@@ -1,1 +1,12 @@
-
+[
+  {
+    "id": 1,
+    "nagan": "Bahay namin",
+    "name": "Bahay namin",
+    "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/suts.jpg",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": 16.5674,
+    "lng": 120.3221
+  }
+]
