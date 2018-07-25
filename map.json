@@ -108,5 +108,15 @@
     "priceCurrency": "Km",
     "lat": 11.8999964,
     "lng": 120.2333324
+  },
+  {
+    "id": 12,
+    "nagan": "Subic Bay",
+    "name": "Bay on the west coast of the island of Luzon - Subic Bay",
+    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/calamian.jpg",
+    "price": 241.1,
+    "priceCurrency": "Km",
+    "lat": 14.7911,
+    "lng": 120.2397
   }
 ]
