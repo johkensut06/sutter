@@ -18,5 +18,15 @@
     "priceCurrency": "Km",
     "lat": 9.9672,
     "lng": 118.7855
+  },
+  {
+    "id": 3,
+    "nagan": "Puerto Galera",
+    "name": "Port of the Galleons - Puerto Galera",
+    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/puerto.jpg",
+    "price": 403.4,
+    "priceCurrency": "Km",
+    "lat": 13.5019,
+    "lng": 120.9541
   }
 ]
